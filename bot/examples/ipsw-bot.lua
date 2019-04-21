@@ -1,6 +1,6 @@
 local ipsw = {}
 
-local api = require('telegram-bot-lua.core').configure('') -- Insert your token here.
+local api = require('telegram-bot-lua.core').configure('720798955:AAFq-EqmKPv00Xr1aCQ-xrUDcseT0dCobHU') -- Insert your token here.
 local tools = require('telegram-bot-lua.tools')
 local https = require('ssl.https')
 local url = require('socket.url')
